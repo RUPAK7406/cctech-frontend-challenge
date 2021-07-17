@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+}
+
+.app-container{
+  display : flex;
+  flex-direction: column;
+  align-items: center;
+
+    background-color:#1F618D;
+    
+}
+
+.text{
+  font-family: "Roboto";
+  color :white;
+}
